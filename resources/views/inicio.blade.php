@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Inter Area A.A</title>
+    <title>Congreso de Area A.A</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -99,7 +99,7 @@
     <section id="hero" class="d-flex align-items-center">
         <div class="container" data-aos="zoom-out" data-aos-delay="100">
             <h1>Bienvenido al area <span> Los Volcanes</span></h1>
-            <h2>Inter area los volcanes</h2>
+            <h2>Congreso de Area</h2>
             <div class="d-flex">
                 <a href="#about" class="btn-get-started scrollto">Iniciar</a>
             </div>
@@ -118,17 +118,17 @@
                 <div class="section-title">
                     <h2>Sede</h2>
                     <h3>Preparatoria Oficial <span>Num 29</span></h3>
-                    <p>La preparatoria es un lugar optimo para ser lugar sede de inter area</p>
+                    <p>Lugar donde se llevara a cabo el congreso</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
                         <img src="assets/img/salones.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="100">
-                        <h3>Cuenta con los siguientes servicios</h3>
+                    <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column " data-aos="fade-up" data-aos-delay="100">
+                        <h3>INVITACIÓN</h3>
                         <p class="fst-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            Se hace la coordial invitación a participar en el congreso del área los volcanes de A.A
                         </p>
                         <ul>
                             <li>
