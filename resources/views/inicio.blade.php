@@ -26,13 +26,7 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
-
-    <!-- =======================================================
-  * Template Name: BizLand - v3.7.0
-  * Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+   
 </head>
 
 <body>
@@ -66,8 +60,8 @@
                     <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
                     <li><a class="nav-link scrollto" href="#about">Sede</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">Fotos</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Zonas</a></li>                                        
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                    <li><a class="nav-link scrollto" href="#services">Turismo</a></li>                                        
+                    <li><a class="nav-link scrollto" href="#contact">Contactanos</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>
@@ -156,7 +150,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="count-box">
                             <i class="bi bi-umbrella"></i>
-                            <span data-purecounter-start="400" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="400" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Área con techumbre</p>
                         </div>
                     </div>
@@ -180,7 +174,7 @@
                     <div class="col-lg-3 col-md-6 mt-5 mb-3 mt-lg-0">
                         <div class="count-box">
                             <i class="bi bi-signpost-2"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+                            <span data-purecounter-start="20" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
                             <p>Estacionamiento</p>
                         </div>
                     </div>
