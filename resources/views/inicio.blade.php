@@ -148,7 +148,7 @@
 
 
         <!-- ======= Counts Section ======= -->
-        <section id="counts" class="counts">
+        <section id="counts" class="counts section-bg">
             <div class="container" data-aos="fade-up">
 
                 <div class="row">
@@ -420,7 +420,103 @@
         <!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-        {{-- <section id="services" class="services">
+        <section id="services" class="services">
+            <div class="container" data-aos="fade-right"">
+                <div class="section-title">
+                    <h2>Turismo</h2>
+                    <h3>Observa todo lo que hay en area <span>Los Volcanes</span></h3>
+                    <p>Podrás tanto negocios, sonas turisticas, así como diferentes lugares donde te podras hospedar.</p>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3">
+                    <!-- Hoteles-->
+                    <div class="col mb-4">
+                      <div class="card border-primary">
+                        <img src="assets/img/lugares/hotel1.jpeg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                          <h5 class="card-title">Hotel Cariño</h5>
+                          <p class="card-text">55 0932 3636<br></p>
+                          <div class="card-footer bg-transparent border-success"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/wPL1yikLwAUc29Ww9">Hoteles <i class="bi bi-geo-alt"></i></a></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/hotel2.jpeg" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Hotel Fontesana</h5>
+                            <p class="card-text">+525979783030</p>
+                            <div class="card-footer bg-transparent border-success"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/XgrWaz2CQQ3tu3gT8">Hoteles <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/hotel3.jpeg" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Hotel Rey</h5>
+                            <p class="card-text">+525979783030</p>
+                            <div class="card-footer bg-transparent border-success"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/P3bvpEHPoPU5w5BX7">Hoteles <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                    <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/mercado1.jpeg" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Mercado Municipal de Tepetlixpa</h5>                            
+                            <div class="card-footer bg-transparent border-danger"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/q7GYvcey3CPf1Lmw7">Mercados <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/mercado2.jpeg" class="card-img-top" alt="...">
+                          <div class="card-body">
+                            <h5 class="card-title">Mercado Municipal de Ozumba</h5>                            
+                            <div class="card-footer bg-transparent border-danger"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/MZyf1vDNL19Q4nGh7">Mercados <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                    </div>                    
+                      <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/publico.jpeg" class="card-img-top" >
+                          <div class="card-body">
+                            <h5 class="card-title">Unidad Deportiva Tepetlixpa</h5>                            
+                            <div class="card-footer bg-transparent border-info"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/HoB7kVTaF8gzVdgw5">Lugares publicos <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/publico2.jpeg" class="card-img-top" >
+                          <div class="card-body">
+                            <h5 class="card-title">Ecoturistico Tepetlixpa</h5>                            
+                            <div class="card-footer bg-transparent border-info"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/uLov711bH3VTpcsn9">Lugares publicos <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/publico3.jpeg" class="card-img-top" >
+                          <div class="card-body">
+                            <h5 class="card-title">Museo de Serpientes Vivas El Teutle</h5>                            
+                            <div class="card-footer bg-transparent border-info"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/Mazdfr3TWDKiD5bE9">Lugares publicos <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col mb-4">
+                        <div class="card border-primary">
+                          <img src="assets/img/lugares/publico4.jpeg" class="card-img-top" >
+                          <div class="card-body">
+                            <h5 class="card-title">Santuario del Dulce Nombre de Jesús Tepetlixpa Estado de México</h5>                            
+                            <div class="card-footer bg-transparent border-info"><a type="button" class="btn btn-outline-primary" target="_blank" href="https://maps.app.goo.gl/FVnAXtpWwz3b62ns5">Lugares publicos <i class="bi bi-geo-alt"></i></a></div>
+                          </div>
+                        </div>
+                      </div>
+                    
+                  </div>
+            </div>
+            {{-- 
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -477,8 +573,8 @@
                     </div>
                 </div>
                 <!-- End of card -->x
-            </div>
-        </section> --}}
+            </div>--}}
+        </section> 
         <!-- End Services Section -->
 
         <!-- ======= Team Section ======= -->
