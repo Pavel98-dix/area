@@ -424,7 +424,7 @@
                 <div class="row row-cols-1 row-cols-md-3">
                     <!-- Hoteles-->
                     <div class="col mb-4">
-                      <div class="card border-primary">
+                      <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                         <img src="assets/img/lugares/hotel1.jpeg" class="card-img-top" alt="...">
                         <div class="card-body">
                           <h5 class="card-title">Hotel Cariño</h5>
@@ -434,7 +434,7 @@
                       </div>
                     </div>
                     <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                           <img src="assets/img/lugares/hotel2.jpeg" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Hotel Fontesana</h5>
@@ -444,7 +444,7 @@
                         </div>
                       </div>
                       <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                           <img src="assets/img/lugares/hotel3.jpeg" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Hotel Rey</h5>
@@ -454,7 +454,7 @@
                         </div>
                       </div>
                     <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-right" data-aos-delay="100" >
                           <img src="assets/img/lugares/mercado1.jpeg" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Mercado Municipal de Tepetlixpa</h5>                            
@@ -463,7 +463,7 @@
                         </div>
                     </div>
                     <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-right" data-aos-delay="100" >
                           <img src="assets/img/lugares/mercado2.jpeg" class="card-img-top" alt="...">
                           <div class="card-body">
                             <h5 class="card-title">Mercado Municipal de Ozumba</h5>                            
@@ -472,7 +472,7 @@
                         </div>
                     </div>                    
                       <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-rigth" data-aos-delay="100" >
                           <img src="assets/img/lugares/publico.jpeg" class="card-img-top" >
                           <div class="card-body">
                             <h5 class="card-title">Unidad Deportiva Tepetlixpa</h5>                            
@@ -481,7 +481,7 @@
                         </div>
                       </div>
                       <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                           <img src="assets/img/lugares/publico2.jpeg" class="card-img-top" >
                           <div class="card-body">
                             <h5 class="card-title">Ecoturistico Tepetlixpa</h5>                            
@@ -490,7 +490,7 @@
                         </div>
                       </div>
                       <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                           <img src="assets/img/lugares/publico3.jpeg" class="card-img-top" >
                           <div class="card-body">
                             <h5 class="card-title">Museo de Serpientes Vivas El Teutle</h5>                            
@@ -499,7 +499,7 @@
                         </div>
                       </div>
                       <div class="col mb-4">
-                        <div class="card border-primary">
+                        <div class="card border-primary" data-aos="fade-up" data-aos-delay="100" >
                           <img src="assets/img/lugares/publico4.jpeg" class="card-img-top" >
                           <div class="card-body">
                             <h5 class="card-title">Santuario del Dulce Nombre de Jesús Tepetlixpa Estado de México</h5>                            
